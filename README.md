@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospital Management System and a Phishing Detector Web Extension Software <br>👯 I’m looking to collaborate on Backend and Machine Learning Projects <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Laravel, Pytorch, Tensorflow<br>💬 Ask me about Machine Learning, AI, Backend Development<br>⚡ Fun fact Everyone laughs around me
+🔭 I’m currently working on Hospital Management System and a Phishing Detector Web Extension <br>👯 I’m looking to collaborate on Backend and Machine Learning Projects <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Laravel, Pytorch, Tensorflow<br>💬 Ask me about Machine Learning, AI, Backend Development<br>⚡ Fun fact Everyone laughs around me
 
 
 ## 🌐 Socials:
